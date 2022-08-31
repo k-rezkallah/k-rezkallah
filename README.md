@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k-rezkallah
-- 👀 I’m interested in AJ/web/mobile developpement
-- 🌱 I’m currently learning AJ, TS, RxJS
+- 👀 I’m interested in Angular/web/mobile developpement
+- 🌱 I’m currently learning Angular, TS, RxJS
 - 💞️ I’m looking to collaborate on real life projects
 - 📫 How to reach me? email: khalilrezkallah01@gmail.com
 
